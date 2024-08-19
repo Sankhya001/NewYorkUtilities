@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+        .SiteHeader{
+            background-image:url(../../Content/Images/bgimage.png);
+            background-repeat:repeat-x;
+            background-position:center;
+        }
+        .activeLink
+        {
+            width:100%;
+           font-weight:bold;
+            color:white !important;
+        }
+        .divPageHeader
+        {
+            font-size:16px;
+            font-weight:400;
+            font-family:Verdana;
+            color:orange;
+        }
+    </style>
+</head>
+
+<body style="padding:0">
+    <div class="container">
+        <div class="container col-md-12 SiteHeader">
+            <div class="col-md-2 text-center">
+                <img style="max-height:75px;max-width:75px;" src="~/Content/Images/Logos/NYLogo.jpg" />
+            </div>
+            <div class="col-md-8 text-center">
+                 <h3 style="color:white"><strong>Smart New York Handy: A Centralized System for Storing and Managing Significant Area Related Information</strong></h3>                               
+            </div>
+            <div class="col-md-2 text-center">
+                <img style="max-height:75px;max-width:75px;" src="~/Content/Images/Logos/NYLogo.jpg" />
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="container; text-center" style="background-color:#005690">
+            <marquee style="color:white;width:60%">Welcome to New York City website. Have a nice day!</marquee>
+        </div>        
+    </div>
+    <div class="container">  
+            <div style="background-color:darkslategray" class="col-md-2 navbar navbar-inverse navbar-fixed-left">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home",null, new {@id="ancHome"})</li>                   
+                        <li>@Html.ActionLink("About Us", "About", "Home", null, new { @id= "ancAbout" })</li>
+                        <li>@Html.ActionLink("Contact Us", "Contact", "Home", null, new { @id = "ancContact" })</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <div>&nbsp;</div>
+                @RenderBody()
+            </div>
+            <div class="col-md-2 panel panel-primary">
+                <div class="panel-heading">
+                    <h4>Sponsors</h4>
+                </div>
+                <div class="panel-body">
+                    <a target="_blank" href="http://www.amazon.in/">
+                        <img alt="add2" src="~/Content/Images/AmazonAdd.png" style="height:75px;width:100%" />
+                    </a>
+                    <br /><br />
+                    <a target="_blank" href="https://www.snapdeal.com/">
+                        <img alt="add3" src="~/Content/Images/SnapdealAdd.png" style="height:75px;width:100%" />
+                    </a>
+                    <br /><br />
+                    <a target="_blank" href="https://www.bestbuy.com/">
+                        <img alt="add1" src="~/Content/Images/BBLogo.jpeg" style="height:120px;width:100%" />
+                    </a>
+                    <br /><br />
+                    <a target="_blank" href="https://www.flipkart.com/">
+                        <img alt="add3" src="~/Content/Images/FlipkartAdd.png" style="height:75px;width:100%" />
+                    </a>
+                </div>
+            </div>
+    </div>
+    <div class="container">
+        <footer class="col-md-12">
+            <hr class="col-md-12" />
+            <strong>&copy; @DateTime.Now.Year - New York City Information By Sankhya Chama</strong>
+        </footer>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <script>
+        $(document).ready(function () {
+            var actionName = "@ViewContext.RouteData.GetRequiredString("action")";
+            if (actionName == "Gallery") {
+                $("#ancGallery").addClass("activeLink");
+            }
+            else if (actionName == "EngineeringColleges" || actionName == "MedicalColleges" || actionName == "DegreeColleges") {
+                $("#ancEducation").addClass("activeLink");
+            }
+            else if (actionName == "Addresses") {
+                $("#ancAddresses").addClass("activeLink");
+            }
+            else if (actionName == "AddAddress") {
+                $("#ancAddAddress").addClass("activeLink");
+            }
+            else if (actionName == "GISTForum") {
+                $("#ancGISTForum").addClass("activeLink");
+            }
+            else if (actionName == "About") {
+                $("#ancAbout").addClass("activeLink");
+            }
+            else if (actionName == "Contact") {
+                $("#ancContact").addClass("activeLink");
+            }
+            else if (actionName != "Authenticate") {
+                $("#ancHome").addClass("activeLink");
+            }
+        });
+    </script>
+</body>
+</html>
