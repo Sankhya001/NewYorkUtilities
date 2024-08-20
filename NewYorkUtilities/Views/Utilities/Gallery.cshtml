@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Gallery";
+}
+
+<div class="row">
+@foreach (var filePath in Model)
+{
+    <div class="col-md-3" style="padding:1%">      
+        <img alt="Image" style="height:150px;width:100%" src="~/Content/Images/Gallery/@filePath"/>               
+    </div>
+}
+</div>
+

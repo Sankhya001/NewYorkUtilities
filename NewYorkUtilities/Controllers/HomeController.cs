@@ -26,5 +26,11 @@ namespace NewYorkUtilities.Controllers
 
             return View();
         }
+
+        public ActionResult Error()
+        {
+            return View();
+        }
+
     }
 }

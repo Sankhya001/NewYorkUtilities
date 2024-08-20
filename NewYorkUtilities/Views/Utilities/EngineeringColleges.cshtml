@@ -1,0 +1,23 @@
+﻿@model NewYorkUtilities.Models.CollegesListViewModel
+<script>
+    var count = 0, text = 100;
+</script>
+
+<div class="divPageHeader">@ViewBag.Title : </div>
+<br />
+<br />
+@foreach (var college in Model.CollegesList)
+{
+    <div class="row col-md-12">
+        <div class="col-md-3 text-left">
+            <img alt="Logo" style="height:150px;width:150px;" src="~/Content/Images/Logos/@college.LogoName" />
+        </div>
+        <div class="col-md-9">
+            <p><label class="label-primary" style="color:white;">@college.Name</label></p>
+            <p>@college.Description</p>
+            <p><b>For more details </b><a target="_blank" href="@college.SiteLink"><strong>click here</strong></a></p>
+        </div>
+    </div>
+    <br />
+    <br />
+}
