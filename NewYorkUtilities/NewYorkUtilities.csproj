@@ -13,8 +13,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NelloreUtilities</RootNamespace>
-    <AssemblyName>NelloreUtilities</AssemblyName>
+    <RootNamespace>NewYorkUtilities</RootNamespace>
+    <AssemblyName>NewYorkUtilities</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
@@ -201,14 +201,18 @@
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Controllers\AddressesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\UtilitiesController.cs" />
     <Compile Include="DataAccess\NewYorkUtilitiesEF.Context.cs" />
+    <Compile Include="DataAccess\tblAddress.cs" />
+    <Compile Include="DataAccess\tblCategory.cs" />
     <Compile Include="DataAccess\tblEducationInfo.cs" />
     <Compile Include="DataAccess\UtilitiesDAL.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\AddressViewModel.cs" />
     <Compile Include="Models\CollegesViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
@@ -265,6 +269,8 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Utilities\Gallery.cshtml" />
     <Content Include="Views\Utilities\EngineeringColleges.cshtml" />
+    <Content Include="Views\Addresses\Addresses.cshtml" />
+    <Content Include="Views\Addresses\AddAddress.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

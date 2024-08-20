@@ -24,6 +24,33 @@ namespace NewYorkUtilities.DataAccess
             return result;
         }
 
+        public List<tblCategory> GetAllAddressCategories()
+        {
+            var result = _db.tblCategories.ToList();
+            return result;
+        }
+
+        public List<tblAddress> GetAddressesByCategory(int category)
+        {
+            var result = _db.tblAddresses.Where(x => x.Category == category).ToList();
+            return result;
+        }
+
+        public string AddAddress(tblAddress address)
+        {
+            try
+            {
+                _db.tblAddresses.Add(address);
+                _db.SaveChanges();
+                return "Success";
+            }
+            catch(Exception ex)
+            {
+                return ex.Message;
+            }
+        }
+
+
 
     }
 }

@@ -1,0 +1,52 @@
+﻿@model NewYorkUtilities.Models.AddressListViewModel
+@{
+    ViewBag.Title = "Addresses";
+}
+
+@using (Html.BeginForm("Addresses", "Addresses", FormMethod.Get))
+{
+<div class="divPageHeader">@ViewBag.Title : </div><br />
+<div class="row">
+    <div class="col-md-7 form-group">
+        <label class="col-md-2">Category:</label>
+        <div class="col-md-8">
+            @Html.DropDownList("SelectFilter", Model.listCategories, new { @class = "form-control"})
+        </div>
+        <div class="col-md-2 left">
+            <button type="submit" class="btn btn-primary">Search</button>
+        </div>
+    </div>
+    <div class="col-md-5 form-group">
+        <div class="col-md-12 text-right">
+            @Html.ActionLink("Add Address", "AddAddress", "Addresses", null, new { @id = "ancAddAddress" })
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <strong>Search Results</strong> 
+        </div>
+        <div class="panel-body">
+            @if (Model.AddressList.Count == 0)
+            {
+                <label>No Records found. Please change category and try again.</label>
+            }
+            @foreach (var address in Model.AddressList)
+            {
+                <div class="col-md-11">
+                    <p><label class="label-info" style="color:white; padding:2px;padding-left:5px;padding-right:5px;">@address.Name</label></p>
+                    <p>
+                        @address.Street1, @address.Street2, @address.City <br />
+                        Phone: @address.Phone <br />
+                        Pincode: @address.Pincode
+                    </p>
+                    <p><b>For more details </b><a target="_blank" href="@address.SiteLink"><strong>click here</strong></a></p>
+                    <hr class="col-md-12" />
+                </div>
+                
+            }
+        </div>
+    </div>
+</div>
+}

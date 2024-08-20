@@ -1,89 +1,3 @@
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\ApplicationInsights.config
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\roslyn\csc.exe
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\roslyn\System.Collections.Immutable.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\roslyn\System.Reflection.Metadata.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\roslyn\vbc.exe
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\roslyn\VBCSCompiler.exe
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\roslyn\VBCSCompiler.exe.config
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\NelloreUtilities.dll.config
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\NelloreUtilities.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\NelloreUtilities.pdb
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Antlr3.Runtime.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\EntityFramework.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\EntityFramework.SqlServer.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AI.DependencyCollector.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AI.Web.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AI.WindowsServer.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.ApplicationInsights.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.Google.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Web.Infrastructure.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Newtonsoft.Json.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Owin.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Runtime.CompilerServices.Unsafe.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.Helpers.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.Mvc.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.Optimization.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.Razor.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.WebPages.Deployment.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.WebPages.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.WebPages.Razor.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\WebGrease.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AI.DependencyCollector.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AI.Web.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AI.WindowsServer.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.ApplicationInsights.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Runtime.CompilerServices.Unsafe.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.Helpers.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.Mvc.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.Optimization.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.Razor.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.WebPages.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.WebPages.Deployment.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\System.Web.WebPages.Razor.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Antlr3.Runtime.pdb
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Newtonsoft.Json.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\EntityFramework.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\EntityFramework.SqlServer.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.Google.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\obj\Debug\NewYorkUtilities.csproj.AssemblyReference.cache
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\obj\Debug\NewYorkUtilities.csproj.CoreCompileInputs.cache
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\obj\Debug\NewYorkUtilities.csproj.CopyComplete
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\obj\Debug\NelloreUtilities.dll
-C:\Mahesh\FilesFromDell15R\Mouni Project\DotNetCode\NelloreUtilities\NewYorkUtilities\obj\Debug\NelloreUtilities.pdb
 C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\ApplicationInsights.config
 C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\roslyn\csc.exe
 C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -97,9 +11,9 @@ C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\roslyn\System.
 C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\roslyn\vbc.exe
 C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\roslyn\VBCSCompiler.exe
 C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\NelloreUtilities.dll.config
-C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\NelloreUtilities.dll
-C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\NelloreUtilities.pdb
+C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\NewYorkUtilities.dll.config
+C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\NewYorkUtilities.dll
+C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\NewYorkUtilities.pdb
 C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\Antlr3.Runtime.dll
 C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\EntityFramework.dll
 C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\EntityFramework.SqlServer.dll
@@ -168,5 +82,5 @@ C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\bin\Microsoft.Owin
 C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\obj\Debug\NewYorkUtilities.csproj.AssemblyReference.cache
 C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\obj\Debug\NewYorkUtilities.csproj.CoreCompileInputs.cache
 C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\obj\Debug\NewYorkUtilities.csproj.CopyComplete
-C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\obj\Debug\NelloreUtilities.dll
-C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\obj\Debug\NelloreUtilities.pdb
+C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\obj\Debug\NewYorkUtilities.dll
+C:\Users\mahes\source\repos\NewYorkUtilities\NewYorkUtilities\obj\Debug\NewYorkUtilities.pdb
